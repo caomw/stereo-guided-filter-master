@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG  -fopenmp CMakeFiles/stereoGuidedFilter.dir/costVolume.cpp.o CMakeFiles/stereoGuidedFilter.dir/filters.cpp.o CMakeFiles/stereoGuidedFilter.dir/image.cpp.o CMakeFiles/stereoGuidedFilter.dir/main.cpp.o CMakeFiles/stereoGuidedFilter.dir/occlusion.cpp.o CMakeFiles/stereoGuidedFilter.dir/io_png.c.o  -o stereoGuidedFilter -rdynamic -lpng -lz 

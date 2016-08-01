@@ -1,0 +1,2 @@
+/root/Downloads/stereo-guided-filter-master/build/CMakeFiles/show_weights.dir
+/root/Downloads/stereo-guided-filter-master/build/CMakeFiles/stereoGuidedFilter.dir

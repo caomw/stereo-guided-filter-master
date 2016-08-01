@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG  -fopenmp CMakeFiles/show_weights.dir/filters.cpp.o CMakeFiles/show_weights.dir/image.cpp.o CMakeFiles/show_weights.dir/main_weights.cpp.o CMakeFiles/show_weights.dir/io_png.c.o  -o show_weights -rdynamic -lpng -lz 
